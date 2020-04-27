@@ -18,3 +18,10 @@
 *.vim
 *.pl
 *.crt
+cmd/
+dev/
+bin/
+etc/
+usr/
+mingw32/
+tmp/
