@@ -1,0 +1,651 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "23/10/2005">
+	<sitename>Ju's Web Photo Gallery</sitename>
+	<photographer>Fabricio Lima</photographer>
+	<contactinfo></contactinfo>
+	<email>jully@fabriciolima.com.br</email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "DSCF1316.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1316.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1318.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1318.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1319.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1319.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1320.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1320.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1321.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1321.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1324.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1324.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1325.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1325.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1326.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1326.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1327.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1327.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1328.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1328.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1329.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1329.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1331.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1331.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1333.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1333.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1336.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1336.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1337.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1337.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1338.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1338.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1339.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1339.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1340.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1340.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1341.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1341.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1342.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1342.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1343.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1343.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1346.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1346.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1347.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1347.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1348.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1348.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1349.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1349.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1350.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1350.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1351.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1351.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1352.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1352.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1353.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1353.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1355.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1355.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1356.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1356.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1357.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1357.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1358.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1358.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1360.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1360.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1361.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1361.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1362.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1362.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1364.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1364.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1365.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1365.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1366.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1366.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1367.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1367.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1368.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1368.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1370.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1370.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1373.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1373.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1375.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1375.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1376.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1376.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1379.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1379.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1382.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1382.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1383.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1383.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1387.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1387.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1389.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1389.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1391.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1391.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1393.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1393.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1394.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1394.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1395.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1395.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1396.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1396.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1399.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1399.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1400.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1400.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1402.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1402.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1403.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1403.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1404.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1404.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1405.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1405.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1406.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1406.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF1408.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF1408.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+</images>
+</gallery>

@@ -1,0 +1,488 @@
+COLEMERMA CDs colemerma@hotmail.com
+
+Sistemas Operacionais                 Versão Fabricante       TIPO
+BeOS                                        4Be                ISO
+FreeBSD                                2.2.8 Walnut Cree    ORIGINAL
+JavaOS                                       Sun              TRIAL
+MS-DOS                                      5Microsoft      ORIGINAL
+MS-DOS                                  6.22 Microsoft       IMAGES
+NetBSD                                 1.3.1 Berkley         RIPPED
+NetWare                                 4.11 Novell     ORIGINAL+LICENSE
+NewDeal                                                       TRIAL
+OpenNT Server                                Interix         SERIAL
+OpenNT WorkStation                           Interix         SERIAL
+OpenServer                             5.2.7 SCO            ORIGINAL
+OS/2 Warp                                   4IBM             IMAGES
+OS/2 Warp                                   4IBM            ORIGINAL
+QNX                                          QNX         RIPPED+LICENSE
+Red Hat Linux                            5.1 Red Hat        ORIGINAL
+Red Hat Linux                            6.0 Red Hat           ISO
+SlackWare Linux                          3.5 Walnut Cree    ORIGINAL
+Windows                                 3.11 Microsoft        FULL
+Windows                              95 2.51 Microsoft   ORIGINAL+SERIAL
+Windows                                    98Microsoft   ORIGINAL+SERIAL
+Windows                                98 SE Microsoft    RIPPED+SERIAL
+Windows NT Server                        4.0 Microsoft    RIPPED+SERIAL
+
+Jogos                                Tamanho                  TIPO       CD#
+3D Pinball                             99.936Kb              RIPPED      Matrix-CDs
+3D Table                                6.225Kb              RIPPED      Games
+3D Ultra Pinball                       31.726Kb              RIPPED      Games
+Alladin 95                              2.463Kb               FULL       Games
+Allien Rampage                          6.681Kb               TRIAL      Games
+Andretti Raccing                                               ISO
+Area 51                                51.160Kb              RIPPED      Games 2
+Army Men 2                             49.803Kb               FULL       GustKiller
+Asterix                                 3.703Kb               FULL       Gamez II
+Bart                                       28Kb               FULL       Games
+Battle Zone                            83.919Kb              RIPPED      Games 1
+Beavis - Butt Head Virtuality Stupid    3.279Kb              RIPPED      Games
+Beavis and Butt Head Bunghole in One   69.700Kb              RIPPED      Gamez III
+Black Thorne                            1.423Kb               FULL       Games
+Boss Rally                             15.726Kb               FULL       Gamez III
+California Games                        1.075Kb               FULL       Games
+Carmageddon                            65.093Kb               FULL       Gamez IV
+Carmageddon                            65.093Kb               FULL       Gamez
+Carmageddon 2                          59.623Kb              RIPPED      Gamez II
+CART Precision Racing                  52.542Kb               FULL       Games 2
+Chess Master 5000                      17.132Kb               FULL       Games
+Comanche 3                                                  ORIGINAL
+Comanche 3                            117.040Kb              RIPPED      Matrix-CDs
+Comix Zone                              4.281Kb               FULL       Games
+Cool Spot                                 669Kb               FULL       Games
+Darius                                 16.037Kb               FULL       Games
+Day of the Tentacle                     7.495Kb               FULL       Half Life
+Daytona USA                            27.048Kb               FULL       Games
+Destruction Derby 2                     8.839Kb              RIPPED      Games 1
+DethKarz                               55.632Kb              RIPPED      Gamez II
+Die Hard Trilogy                       21.675Kb              RIPPED      Games 1
+Dolly                                     255Kb               FULL       Games
+Donkey Kong Country                     2.756Kb              EMULADO     Games 1
+Doom 95                                 6.187Kb               FULL       Games
+Duke 3D                                15.310Kb              RIPPED      Matrix-CDs
+Earth Worm Jim                          6.309Kb               FULL       Games
+Earth Worm Jim SE                       6.309Kb               FULL       Gamez II
+Elifoot 98                                672Kb               FULL       Games
+Eliminator                             30.749Kb               FULL       GustKiller
+Extreme Boards & Blades                35.463Kb               FULL       Gamez III
+Extreme Bull Rider                     36.996Kb               FULL       GustKiller
+Extreme Mountain Biking                36.321Kb               FULL       Gamez III
+F16 Agressor                           80.357Kb               FULL       GustKiller
+F1 Racing Simulation                                           ISO
+F1 World Championship 3Dfx             37.173Kb               FULL       Games 2
+F22 Lightining 2                       18.972Kb              RIPPED      Games 2
+Fatal Fury 3                           17.762Kb               FULL       GustKiller
+Fatal Racing                           14.345Kb               FULL       Gamez III
+Fifa 96                                16.244Kb              RIPPED      Games
+Fifa Soccer 98                                                 ISO
+Fifa Soccer 98                         64.733Kb              RIPPED      Games 2
+FIFA Soccer 99                         43.224Kb              RIPPED      Matrix-CDs
+Final Racing 2001                      87.373Kb               FULL       Games 2
+FlashBack                               2.789Kb               FULL       Games
+Flight Simulator 98                    82.614Kb              RIPPED      Games 2
+Formula 1 '97                          37.814Kb              RIPPED      Games
+Frogger 3D                             14.052Kb               FULL       Gamez III
+GEX 2 Enter The Gecko                  68.662Kb               FULL       GustKiller
+GO Professional 2                      12.584Kb               FULL       GustKiller
+Goonies                                    43Kb              EMULADO     Games
+Grand Theft Auto                       28.618Kb               FULL       Gamez IV
+Grand Theft Auto                       28.618Kb               FULL       Gamez
+Grand Theft Auto London                52.175Kb               FULL       Gamez III
+GrinFandango                                                   ISO
+Half Life                                                      ISO
+Hard Trucks Store                      47.687Kb               FULL       GustKiller
+Heretic 2                             119.518Kb               FULL       Gamez III
+Heroes of Might and Magic 3           135.775Kb               FULL       GustKiller
+Hi Octane                               5.079Kb               FULL       Games
+Honda Castrol SuperBike                19.427Kb               FULL       Gamez IV
+Honda Castrol SuperBike                19.427Kb               FULL       Gamez
+House of the Dead                      18.039Kb               FULL       GustKiller
+Incoming                                7.653Kb              RIPPED      Gamez II
+Incoming 2 The Subversion              20.860Kb               FULL       Gamez III
+Independence Day                       17.874Kb              RIPPED      Games 2
+Interstate 76                          43.792Kb              RIPPED      Games 2
+Jazz Jack Rabbit                        5.634Kb               FULL       Games
+Jazz Jack Rabbit 2 Holiday Hare 98     32.603Kb               FULL       Gamez III
+Jet Moto                               43.787Kb               FULL       Games 2
+Larry 5                                 7.366Kb               FULL       Games
+Leisure Suit Larry 7                  105.906Kb               FULL       Half Life
+Lost Vikings                            1.219Kb               FULL       Games
+Lost Vikings 2                         47.584Kb               FULL       Games 1
+Lotus                                   1.093Kb               FULL       Games
+M1 Tank Platoon II                     44.363Kb               FULL       Games 1
+Mario                                      60Kb              EMULADO     Games
+MDK                                    91.377Kb              RIPPED      Games
+MIB Man In Black                       49.880Kb               FULL       Gamez
+Monster Truck Madness                  28.018Kb               FULL       Games 2
+Monster Truck Madness 2                41.024Kb               FULL       Games 2
+Monster Truck Madness 2                41.063Kb               FULL       Gamez
+Mortal Kombat 4                        13.449Kb               FULL       Gamez IV
+Mortal Kombat 4                        13.449Kb               FULL       Gamez
+Moto Cross Madness                                          ORIGINAL
+MotoRacer                              35.258Kb              RIPPED      Games
+MotoRacer 1                                                 ORIGINAL
+MotoRacer 2                                                 ISO+CRACK
+MotoRacer 2                            52.341Kb              RIPPED      Gamez II
+MotoRacer Add-On                          549Kb               FULL       Gamez II
+Nascar 99                              48.611Kb               FULL       Gamez III
+Nascar Craftman Truck Racing           14.133Kb               FULL       GustKiller
+NBA Jam                                 5.762Kb               FULL       Games
+NBA Live 98                           100.127Kb              RIPPED      Gamez
+NBA Live 99                            82.841Kb              RIPPED      Gamez II
+NBA Live 98                                                    ISO
+Need for Speed 1                                            ORIGINAL
+Need for Speed 1 SE                    76.273Kb              RIPPED      Gamez
+Need for Speed 2                       49.002Kb               FULL       Gamez
+Need for Speed 2 SE                                            ISO
+Need for Speed 3 Hot Pursuit                                   ISO
+Need for Speed: High Stakes                                    ISO
+NHL Hockey 98                          75.676Kb              RIPPED      Games 1
+Nuclear Strike                                                 ISO
+OmniCasino                              8.756Kb               FULL       GustKiller
+Pandemonium                             1.846Kb              RIPPED      Gamez II
+Pandemonium 2                          23.854Kb              RIPPED      Gamez II
+Paper Boy 2                               274Kb               FULL       Games
+PieGates                                  494Kb               FULL       Games
+Pitfall                                 4.111Kb               FULL       Games
+Power F1                               22.049Kb               FULL       Games 1
+Prince of Persia 2                      4.858Kb               FULL       Half Life
+Quake                                  28.706Kb               FULL       Games
+Quake 2                                85.634Kb               FULL       Gamez III
+Quake 2                                97.428Kb               FULL       Gamez
+Quake 3: Arena                         24.320Kb               TEST       Half Life
+Rainbow 6                              57.876Kb              RIPPED      Gamez IV
+Rally Championship                     29.476Kb               FULL       Games 1
+Raptor                                  4.446Kb               FULL       Games
+Rayman                                  5.052Kb               TRIAL      Games
+Rayman                                  5.803Kb               FULL       Gamez II
+Recoil                                115.646Kb              RIPPED      Gamez IV
+Resident Evil                         101.825Kb              RIPPED      Games 1
+Rise of the Robots                     41.593Kb               FULL       Games 2
+Road Rash                              21.907Kb              RIPPED      Gamez
+Rollcage                               59.640Kb              RIPPED      GustKiller
+Sam & Max                               8.338Kb               FULL       Half Life
+Screamer                               23.147Kb              RIPPED      Games
+Screamer 2                             67.961Kb              RIPPED      Games
+SimCity 3000 Brz                                               ISO
+Simpsons                                1.106Kb               FULL       Games
+SIN                                   143.469Kb              RIPPED      Gamez II
+SODA Off Road Racing                   20.867Kb               FULL       Games 2
+Sonic 3                                 5.530Kb               FULL       Games
+South Park                             31.016Kb              RIPPED      Gamez IV
+Speed Boat                             16.121Kb               FULL       Games
+Sports Car GT                         125.072Kb              RIPPED      Gamez IV
+Star Wars: Rogue Squadron              41.623Kb              RIPPED      Gamez IV
+Street Fighter Zero 2                  38.039Kb               FULL       Gamez III
+Stunts                                    992Kb               FULL       Games
+SubCulture                             32.959Kb               FULL       Gamez II
+SubSpace                               11.558Kb               FULL       Games
+Swiv 3D                                                     ORIGINAL
+Terminal Velocity                       6.348Kb               FULL       Games
+Test Drive 4                           43.974Kb              RIPPED      Gamez II
+Tetrinet                                  388Kb               FULL       Games
+Tetris'99                                 243Kb               FULL       Games
+Toca 2 Touring Cars                    54.317Kb               FULL       Gamez IV
+Tomb Raider 3                          54.208Kb              RIPPED      Gamez II
+TopCat                                     38Kb               FULL       Games
+Twinsen's Odissey                                           ORIGINAL
+Tyrian                                  3.758Kb               FULL       Matrix-CDs
+Tyrian 2                                3.993Kb               FULL       Games
+Unreal                                                      ORIGINAL
+Virtua Cops 2                          10.950Kb               FULL       Games
+Wipe Out XL                            14.687Kb               FULL       Games
+World Circuit Grand Prix 2             30.196Kb               FULL       Gamez III
+World Circuit Grand Prix 2             32.609Kb               FULL       Gamez
+World Cup 98                                                   ISO
+Worms                                   4.254Kb               FULL       Games
+Worms 2                                64.463Kb              RIPPED      Games
+Worms Plus                             13.157Kb               FULL       Games
+X Games Pro Boarder                                            ISO
+Xtreme G2                              20.649Kb               FULL       Gamez III
+
+
+
+
+
+
+
+
+Programas                            Tamanho                  TIPO       CD#
+3D Home 4                                    Kb               FULL       Graphicz
+3D Landscape                                 Kb               FULL       Graphicz
+3D Mark 99 Max                         18.084Kb               FULL       Appz IV
+3D Studio MAX 2                        10.813Kb              RIPPED      Games 1
+3D Studio MAX 2.5                      16.174Kb              RIPPED      Half Life
+3D Stutio 4                             14212Kb               FULL       Appz I
+3Dfx Emulator 1.04                        980Kb               FULL       Appz I
+3M Post it Notes                         1431Kb               FULL       Appz III
+ACDSee 2.3                              1.415Kb               FULL       Graphicz
+ACDSee 2.4                              1.899Kb               FULL       Matrix-CDs
+ACDSee 32                                 565Kb              SERIAL      Appz I
+Active Worlds                            1942Kb               FREE       Appz II
+Adaptec Easy CD Creator Deluxe          9.594Kb               FULL       Games 2
+Adobe After FX                               Kb               FULL       Graphicz
+Adobe Ilustrator 7                     45.857Kb               FULL       Graphicz
+Adobe PageMaker 6.5 Brz                      Kb               FULL       Graphicz
+Adobe PhotoShop 5 Brz                  57.784Kb              SERIAL      Graphicz
+Adobe Premiere 5                       20.504Kb               FULL       Graphicz
+Adobe Premiere 5                         6286Kb              SERIAL      Appz I
+Adobe Type Manager                           Kb               FULL       Graphicz
+After Dark 4                                 Kb               FULL       Appz II
+Allaire HomeSite 4                      7.748Kb               FULL       Half Life
+Anti Viral Pro 32 1.2                    2377Kb              CRACKED     Appz II
+ARJ 1.50 Brz + Configuration File         150Kb              RIPPED      Appz I
+Audio Grabber 1.31                        887Kb               FULL       Appz III
+Aurélio                                15.246Kb             LICENSED     Matrix-CDs
+AuthorWare                               6013Kb               FULL       Appz I
+AutoDesk Animator                       2.336Kb               FULL       Graphicz
+AutoDesk Animator                        2157Kb               FULL       Appz I
+AWE16 to 32                              1076Kb               FULL       Appz I
+Back Orifice                              475Kb               FREE       Appz II
+Borland C++ for DOS                      5579Kb               FULL       Appz III
+Bullet Proof                              729Kb              CRACKED     Appz I
+C++ Builder                                  Kb               FULL       Appz IV
+CallCenter                               5392Kb               FREE       Appz III
+CarbonCopy 8.0                               Kb              SERIAL      Appz I
+CDR Label 4                               503Kb               FULL       Appz III
+CDR Win                                   546Kb               FULL       Appz III
+CirMaker 32                              3783Kb               FULL       Appz I
+Clean Sweep 98                          12253Kb               FULL       Appz I
+Conference Room                          1358Kb              SERIAL      Appz I
+Cool 3D                                  2588Kb               FULL       Appz I
+Cool 3D 2.5                              8264Kb               FULL       Appz III
+Corel Word Perfect Suite 8.0           26.799Kb               FULL       Games 1
+Corretor Ortográfico                    1.127Kb               FULL       Matrix-CDs
+CPU Boost                                 217Kb               FULL       Appz I
+CPU Idel 5.5                              334Kb               FULL       Appz III
+Cute FTP 2.0                              827Kb              CRACKED     Appz I
+Cute FTP 2.8                             1268Kb              CRACKED     Appz III
+Dance eJay 2                           86.626Kb              RIPPED      Gamez IV
+Data Advisor                              711Kb               FULL       Appz I
+Delphi 4                                     Kb               FULL       Appz IV
+Delrina WinFAX Pro 4.0                  2.278Kb               FULL       Half Life
+Diamond Monster Fusion 3Dfx Drivers      6110Kb               FREE       Appz III
+Direct X 6.1                            4.570Kb               FULL       Matrix-CDs
+DirectX 6.1                              6132Kb               FREE       Appz II
+Disassembler                              916Kb               FULL       Appz I
+DODI Unassembler                          371Kb               FULL       Appz I
+Dos Util (Old MS-DOS executables)        2672Kb              RIPPED      Appz I
+Dosshell                                  464Kb               FULL       Appz I
+DynIP                                    1287Kb               FULL       Appz I
+Easy Term                                  90Kb               FREE       Appz I
+Edit Pad                                  266Kb               FREE       Appz III
+Eletronic WorkBench 4.1                  1763Kb              CRACKED     Appz I
+Eletronic WorkBench 5                    4936Kb              CRACKED     Appz I
+English Works                            3453Kb               FULL       Appz III
+Eudora 4                                 6389Kb              CRACKED     Appz II
+EXE 2 DPR                                   7Kb               FULL       Appz I
+EZ-Drive                                  290Kb               FULL       Appz I
+FakeCD                                     81Kb               FULL       Games
+Fast Tracker 2                            614Kb               FULL       Appz I
+Fast Tracker 2                            608Kb               FULL       Appz III
+FAT 32 for NT                             733Kb               FULL       Appz III
+FAT 32 NT                                 706Kb               FULL       Appz I
+First-Aid 98                            22895Kb               FULL       Appz I
+FreeSpace                                1149Kb              CRACKED     Appz I
+Front Page 98                           25866Kb               FULL       Appz I
+FXP 8.2                                   329Kb               FULL       Appz I
+GCC 2.7.2.1                              1078Kb               FREE       Appz I
+GetRight 3                                921Kb               FULL       Appz I
+Ghost                                    1200Kb               FULL       Appz II
+GIF Setup                                1079Kb               FULL       Appz I
+Global Link Power Translator Pro 6.4         Kb               FULL       Matrix-CDs
+GlobalLink Power Translator Pro 6.4          Kb               FULL       Appz III
+GNU-Posix for NT                          964Kb               FREE       Appz I
+Gozilla                                  1736Kb               FREE       Appz III
+HexWork                                   398Kb               FULL       Appz I
+Hyper Terminal 4                          741Kb               FULL       Appz III
+IC                                        574Kb               CRACK      Games
+ICQ 98A                                  1626Kb               FREE       Appz I
+ICQ 99A                                  3700Kb               FREE       Appz II
+ICQ 99A                                  4091Kb               FULL       Appz III
+Install Shield Express                   2676Kb               FULL       Appz I
+Install Shield Professional             18075Kb               FULL       Appz I
+Instant Artist 2                         3192Kb               FULL       Appz I
+Intel P3 Serial Number Disabling Util     164Kb               FULL       Gamez IV
+InterLog                                  196Kb               FREE       Appz I
+Internet Explorer 4.0                   25990Kb               FREE       Appz I
+Internet Explorer 5.0                   21543Kb               FREE       Appz III
+Internet Party Line                       381Kb               FULL       Appz I
+Internet Phone 5.01                      8707Kb               FULL       Appz I
+Irfan View 3                              400Kb               FREE       Appz III
+Jet Audio 4.02                           5640Kb              CRACKED     Appz III
+Kai Power Goo                           1.947Kb               FULL       Graphicz
+Kali                                      521Kb              SERIAL      Games
+Kjofol 0.51                              1391Kb               FREE       Appz III
+Klick 'n Play                            5361Kb               FULL       Appz I
+LightWave 5.5                          40.589Kb               FULL       Graphicz
+Lite Step                                2246Kb               FREE       Appz III
+Lotus Organizer 2000                     7290Kb               FULL       Appz III
+Macromedia Director 6                  31.512Kb               FULL       Graphicz
+Macromedia DreamWeaver                  6.397Kb               FULL       Graphicz
+Macromedia DreamWeaver 2                11059Kb               FULL       Appz III
+Macromedia Extreme 3D 2                      Kb               FULL       Graphicz
+Macromedia Flash 3                      8.154Kb               FULL       Graphicz
+Macromedia Flash 3                       9389Kb              CRACKED     Appz I
+Macromedia FreeHand 8                        Kb               FULL       Graphicz
+Magna RAM                                3246Kb               FULL       Appz I
+Map IT                                   9234Kb               DEMO       Appz III
+MASM 6.11                                6316Kb              IMAGES      Appz I
+Math Lab                                 6386Kb               FULL       Appz III
+Microsoft Plus 98                      97.963Kb               FULL       Games 1
+Microsoft Project 98                    24198Kb               FULL       Appz II
+MIRC 5.3                                  687Kb              CRACKED     Appz I
+Mirc 5.5                                  953Kb              CRACKED     Appz III
+MIRO 2                                    415Kb               FULL       Appz I
+MOD 4 Win                                8465Kb               FULL       Appz I
+ModemWizzard                             1431Kb              SERIAL      Appz I
+MotherBoard Monitor 4.05                 1311Kb               FULL       Appz III
+Mozzila                                 11721Kb               FREE       Appz II
+MP3 CD Maker                              804Kb               FULL       Appz III
+MP3 Compressor                           1115Kb               FULL       Appz I
+MultiDesktop 2.00                         284Kb               FULL       Appz I
+NeoPlanet 2.1                            2885Kb               FREE       Appz III
+NetAccelerator                           4822Kb               FULL       Appz I
+NetBus                                    514Kb               FREE       Appz II
+Netscape Communicator 4.04 for OS/2      7323Kb               FREE       Appz III
+Netscape Communicator 4.05              18199Kb               FREE       Appz I
+Netscape Communicator 4.5               14611Kb               FREE       Appz II
+Netscape Communicator 4.6               15455Kb               FULL       Appz III
+Ninja Script 3.8                          657Kb               FULL       Appz I
+Noise Key                                 434Kb               FULL       Appz III
+Norton AntiVirus 5                     12.205Kb               FULL       Matrix-CDs
+Norton Antivirus 5                      11986Kb               FULL       Appz II
+Norton Utilities 3                      28793Kb              CRACKED     Appz I
+Norton Utilities 4                           Kb               FULL       Matrix-CDs
+NT Perl                                   777Kb               FULL       Appz I
+NT Service Pack 3                       18051Kb               FREE       Appz I
+NT Service Pack 4                       32000Kb               FREE       Appz II
+NT Service Pack 5                       33744Kb               FREE       Appz III
+NTFS-DOS                                   35Kb              RIPPED      Appz I
+Opera 3.51                               1263Kb               FREE       Appz III
+Organize 97                              1174Kb               FULL       Appz I
+Oscar 8                                  1286Kb               FULL       Appz I
+PadPals                                    31Kb               FREE       Appz II
+Paint Shop                               7109Kb              CRACKED     Appz I
+Partition Magic 3                        3262Kb              SERIAL      Appz I
+Partition Magic 4                       18467Kb               FULL       Appz II
+Partition-It                             4414Kb               FULL       Appz II
+Password Safe                             450Kb               FULL       Appz II
+PC AnyWare                               8469Kb               FULL       Appz I
+PC Firewall 1.02                         2283Kb               FULL       Appz II
+PCSpice                                  5848Kb               FULL       Appz I
+PDF Maker                               1.277Kb               FULL       Graphicz
+PGPi 5.5.3                               2229Kb               FREE       Appz I
+Pie 3D Game Creation                     2415Kb               FULL       Appz I
+Plus! 95                               12.134Kb               FULL       Half Life
+PowerDesk 98                             8430Kb               FULL       Appz II
+PowerQuest Drive Image Pro 3                 Kb               FULL       Half Life
+PowerToys                                 205Kb               FREE       Appz I
+Print Artist 4                               Kb               FULL       Graphicz
+Print Artist 4                          5.246Kb               FULL       Matrix-CDs
+Print Artist 4                          24059Kb               FULL       Appz I
+Quick View Plus 5.1                     7.815Kb               FULL       Half Life
+Real Audio 5                             1388Kb               FULL       Appz I
+Real Audio Player G2                     3003Kb               FULL       Appz III
+Real Audio Producer G2                   3264Kb               FULL       Appz III
+Real Audio Server 5 NT                   4789Kb              SERIAL      Appz I
+Real Player Plus 6 G2                    2350Kb               FULL       Appz II
+Real Video Encoder                       1424Kb               FULL       Appz I
+RegClean 4.1                              404Kb               FREE       Appz I
+Revisor Gramatical DTS 2.0              2.496Kb               FULL       Matrix-CDs
+RJPA Encoder                             1261Kb               FULL       Appz I
+Sambar Proxy 4                           2201Kb               FULL       Appz II
+SciTech Display Doctor                  2.861Kb               FULL       Graphicz
+SciTech Display Doctor 5.3               1320Kb              SERIAL      Appz I
+SciTech Display Doctor 6.52              2263Kb              SERIAL      Appz I
+Screen Antics                            1365Kb               FULL       Appz I
+Screen DOS                                413Kb               FULL       Appz I
+Serv U 2.3                                358Kb               FULL       Appz I
+Serv U 2.5 + www admin                   2885Kb               FULL       Appz III
+ShutDown Now! 3.55                       1027Kb               FULL       Appz III
+SiS Soft Sandra                          2199Kb               FULL       Appz II
+Sniffer Pro                             14537Kb               FULL       Appz III
+Soft Ice                                  723Kb               FULL       Appz I
+SoftICE 3.25                                 Kb               FULL       Half Life
+Sonique MP3 Player                       3710Kb               FULL       Appz III
+Soritong                                 1199Kb               FREE       Appz III
+Sound Forge                              5749Kb               FULL       Appz III
+SQL Solo                                15823Kb               FULL       Appz I
+Star Office                             52598Kb               FREE       Appz III
+StarOffice for OS/2                     72045Kb               FREE       Appz III
+Studio Vestibular                        8130Kb               FULL       Appz III
+Super Cat 3                               729Kb              SERIAL      Appz IV
+System Commander 4                      1.264Kb              SERIAL      Appz I
+Tango 2.2                                2652Kb               FULL       Appz I
+ThunderByte Anti Virus 8.04 DOS           449Kb               FULL       Appz I
+ThunderByte Anti Virus 8.04 Win          1117Kb               FULL       Appz I
+Turbo Pascal 6                            374Kb              RIPPED      Appz I
+TweakUI 98                                125Kb               FREE       Appz II
+Ulead Cool 3D                           2.588Kb               FULL       Graphicz
+Ulead Particle                          2.245Kb               FULL       Graphicz
+UltraEdit 6.1                                Kb               FULL       Half Life
+UnCooker 95                               105Kb               FULL       Appz I
+VGACOPY                                   299Kb               FULL       Appz I
+vIRC                                     1173Kb               FULL       Appz I
+VirusScan 98                             7393Kb               FULL       Appz II
+VirusScan95 3.1                          4940Kb               FULL       Appz I
+Visio Professional 5                    74482Kb              SERIAL      Appz II
+VISUAL ASM                                506Kb               FULL       Appz I
+Visual MOD Player                         319Kb               FULL       Appz I
+Vivo Power Player                        2383Kb               FULL       Appz I
+VQF Player 2.5                           4647Kb               FULL       Appz I
+War FTP Daemon 1.65                      1545Kb               FREE       Appz I
+Warp32S                                   537Kb               FULL       Appz I
+Watch Dog                                2829Kb              SERIAL      Appz I
+Web Snake 1.23                           1900Kb              CRACKED     Appz I
+WebScanX 3.16                            4159Kb               FULL       Appz II
+Willow Phone                             1329Kb               FREE       Appz III
+WinAmp 1.91 + 6 Plugins + 49 Skins       4942Kb               FULL       Appz I
+WinBoost 98                              1265Kb               FULL       Appz II
+WinDAC 1.33                               293Kb              CRACKED     Appz I
+WinDAC 1.41                               388Kb              CRACKED     Appz II
+Windows Terminal Server/Client          1.198Kb               FULL       Half Life
+WinFAX 9 Brz                                 Kb               FULL       Matrix-CDs
+WinGate 2                                1436Kb              CRACKED     Appz I
+WinGate 3                                2465Kb               FULL       Appz III
+WinGate 3 95                             1303Kb              SERIAL      Appz I
+WinGate 3 NT                             1367Kb               FULL       Appz I
+WinGroove                                1703Kb              CRACKED     Appz I
+WinImage 4                                289Kb              CRACKED     Appz I
+WinImage 5                                366Kb              CRACKED     Appz III
+WinOS2                                    359Kb               FULL       Appz I
+WinRAR 2.03                               518Kb              CRACKED     Appz I
+WinRAR 2.05                               476Kb              SERIAL      Appz II
+WinRAR 2.5                                619Kb               FULL       Appz III
+Winsock 2                                1404Kb               FREE       Appz I
+Winzip 7                                  928Kb              SERIAL      Matrix-CDs
+WinZip 7                                  922Kb              SERIAL      Appz II
+WinZIP 95                                 719Kb              SERIAL      Appz I
+WizMark 3                                2607Kb               FULL       Appz III
+WordPad No Splash Screen                    9Kb               FREE       Appz II
+Xing Audio Catalyst                       983Kb               FULL       Appz II
+Xing Audio Catalyst 2                    2824Kb               FULL       Appz III
+ZipMagic                                 2181Kb               FULL       Appz I
+ZipMagic 98                              3180Kb               FULL       Appz II
+
+
+
+
+
+
+
+                                                                                  INSTALL TYPES
+
+                                                                                  ORIGINAL
+                                                                                  ISO
+                                                                                  IMAGES
+                                                                                  FULL VERSION
+                                                                                  FREE
+                                                                                  EMULADO
+                                                                                  RIPPED
+                                                                                  LICENSE
+                                                                                  SERIAL
+                                                                                  CRACK
+                                                                                  SHARE
+                                                                                  TRIAL
+                                                                                  DEMO
+                                                                                  TEST

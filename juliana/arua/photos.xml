@@ -1,0 +1,981 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "25/10/2005">
+	<sitename>Ju's Web Photo Gallery</sitename>
+	<photographer>Fabricio Lima</photographer>
+	<contactinfo></contactinfo>
+	<email>jully@fabriciolima.com.br</email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "DSCF0814.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0814.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0817.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0817.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0818.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0818.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0819.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0819.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0820.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0820.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0821.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0821.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0823.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0823.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0825.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0825.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0826.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0826.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0827.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0827.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0828.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0828.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0829.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0829.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0830.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0830.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0831.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0831.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0832.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0832.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0833.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0833.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0834.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0834.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0835.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0835.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0836.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0836.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0837.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0837.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0839.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0839.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0840.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0840.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0841.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0841.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0842.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0842.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0844.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0844.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0845.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0845.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0847.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0847.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0849.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0849.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0850.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0850.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0851.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0851.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0852.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0852.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0854.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0854.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0855.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0855.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0856.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0856.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0857.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0857.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0858.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0858.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0860.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0860.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0861.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0861.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0862.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0862.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0865.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0865.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0867.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0867.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0871.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0871.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0872.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0872.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0873.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0873.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0874.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0874.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0875.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0875.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0876.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0876.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0878.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0878.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0879.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0879.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0880.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0880.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0881.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0881.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0882.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0882.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0883.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0883.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0884.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0884.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0886.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0886.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0887.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0887.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0888.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0888.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0889.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0889.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0890.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0890.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0892.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0892.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0893.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0893.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0894.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0894.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0895.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0895.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0896.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0896.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0898.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0898.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0899.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0899.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0901.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0901.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0902.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0902.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0903.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0903.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0904.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0904.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0905.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0905.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0906.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0906.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0907.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0907.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0908.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0908.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0910.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0910.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0911.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0911.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0912.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0912.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0913.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0913.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0914.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0914.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0915.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0915.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0917.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0917.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0918.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0918.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0919.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0919.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0920.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0920.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0922.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0922.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0923.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0923.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0925.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0925.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0929.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0929.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0931.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0931.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0932.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0932.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0933.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0933.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0935.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0935.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0938.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0938.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0940.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0940.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0945.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0945.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "DSCF0947.jpg"
+width = "350"
+height = "262"
+thumbpath = "DSCF0947.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+</images>
+</gallery>

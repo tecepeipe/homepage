@@ -1,0 +1,523 @@
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.03 [pt] (Win95; I) [Netscape]">
+   <TITLE>GooNieS</TITLE>
+<SCRIPT LANGUAGE="JavaScript">
+
+
+
+
+
+<!-- Changed by: Toni Petteri Saikkonen, 28-Mar-1997 -->
+
+
+
+<!--
+
+/*
+
+ Copyright (C) 1997  Toni Saikkonen / HTOL
+
+*/
+
+
+
+function scroller(startAt)
+
+{
+
+        var message  = "**F r e q u e n c y   G r a p h i c s**"
+
+
+
+                   + "  wants to help you develop"
+
+
+
+                     + " a dominating Web presence"
+
+
+
+        
+
+
+
+        var msg = message
+
+
+
+        var out = " "
+
+        var c   = 1
+
+
+
+      if (killScroll) {return false}
+
+      if (pauseScroll) {
+
+        var cmd="scroller(" + startAt + ")"       
+
+        scollID = setTimeout(cmd,2000)
+
+        return false
+
+      }
+
+
+
+        if (100 < startAt) {
+
+                startAt--
+
+                var cmd="scroller(" + startAt + ")"
+
+                scrollID=window.setTimeout(cmd,80)
+
+        }
+
+        else if (startAt <= 100 && 0 < startAt) {
+
+                for (c=0 ; c < startAt ; c++) {
+
+                        out+=" "
+
+                }
+
+                out+=msg
+
+                startAt--
+
+                var cmd="scroller(" + startAt + ")"
+
+                    window.status=out
+
+                scrollID=window.setTimeout(cmd,80)
+
+        }
+
+        else if (startAt <= 0) {
+
+                if (-startAt < msg.length) {
+
+                        out+=msg.substring(-startAt,msg.length)
+
+                        startAt--
+
+                        var cmd="scroller(" + startAt + ")"
+
+                        window.status=out
+
+                        scrollID=window.setTimeout(cmd,80)
+
+                }
+
+                else {
+
+                        window.status=" "
+
+                        scrollID=window.setTimeout("scroller(100)",80)
+
+                }
+
+        }
+
+ return true
+
+}
+
+
+
+function scrollerSetup() {
+
+ if (scrolling)   
+
+  if (!confirm('Re-initialize scroller?'))
+
+   return false   
+
+ killScroll = true  
+
+ scrolling = true   
+
+ var killID = window.setTimeout('killScroll=false',41)
+
+                    
+
+ scrollID = window.setTimeout('scroller(100)',45)
+
+                    
+
+ return true   
+
+}
+
+
+
+function snapIn(jumpSpaces,position) {
+
+  var msg = "GooNieS... HuaHuaHuaHuaHua :P"
+
+  var out = ""
+
+
+
+  if (killScroll) {return false}
+
+  if (pauseScroll) {
+
+    var cmd = "snapIn(" + jumpSpaces + "," + position + ")"
+
+    scollID = setTimeout(cmd,5)
+
+    return false
+
+  }
+
+
+
+  for (var i=0; i<position; i++) 
+
+    {out += msg.charAt(i)}
+
+
+
+  for (i=1;i<jumpSpaces;i++) 
+
+    {out += " "}
+
+
+
+  out += msg.charAt(position)
+
+
+
+  window.status = out
+
+
+
+  if (jumpSpaces <= 1) {
+
+    position++
+
+    if (msg.charAt(position) == ' ') 
+
+      {position++ }
+
+    jumpSpaces = 100-position
+
+  } else if (jumpSpaces >  3)
+
+       {jumpSpaces *= .75}
+
+  else
+
+    {jumpSpaces--}
+
+
+
+  if (position != msg.length) {
+
+    var cmd = "snapIn(" + jumpSpaces + "," + position + ")";
+
+    scrollID = window.setTimeout(cmd,5);
+
+  } else {
+
+    scrolling = false
+
+    return false 
+
+  }
+
+  return true
+
+}
+
+
+
+function snapSetup() {
+
+ if (scrolling)   
+
+  if (!confirm('Re-initialize snapIn?'))
+
+   return false  
+
+ killScroll = true  
+
+ scrolling = true   
+
+ var killID = window.setTimeout('killScroll=false',6)
+
+ scrollID = window.setTimeout('snapIn(100,0)',10)
+
+ return true    
+
+}
+
+
+
+function doPause(msg) {
+
+ pauseScroll=true
+
+ if (msg != null) {
+
+ setTimeout('pauseScroll=false',500)
+
+  window.status = msg
+
+  return true
+
+ }
+
+ setTimeout('pauseScroll=false',2000)
+
+ return false
+
+}
+
+
+
+var scrollID = Object
+
+var scrolling = false
+
+var killScroll = false
+
+var pauseScroll = false
+
+
+
+
+
+// -->
+
+
+
+
+
+<!--
+
+
+
+function Remote() {
+
+  var floater = null
+
+  floater = window.open('','vRemote','width=150,height=150,resizable=0,status=0,scrollbars=0')
+
+  if (floater != null) {
+
+    if (floater.opener == null) {
+
+      floater.opener = self
+
+    }
+
+    floater.location.href = 'http://www.dlc.fi/~ratter/hunter/'
+
+  }
+
+}
+
+// -->
+
+
+
+
+</SCRIPT>
+</HEAD>
+<BODY TEXT="#FF0000" BGCOLOR="#000000" LINK="#DD0000" VLINK="#660000" onLoad="snapSetup()">
+<!-- following code added by server. PLEASE REMOVE -->
+<!-- preceding code added by server. PLEASE REMOVE -->
+<SCRIPT Language="JavaScript">
+
+
+
+
+
+
+
+
+
+<!-- Hiding script from old browsers
+
+
+
+
+
+var version = 0;
+
+
+
+if (navigator.userAgent.indexOf("Mozilla/4.0") != -1) version = 4;
+
+
+
+        else if (navigator.userAgent.indexOf("Mozilla/3.0") != -1) version = 3;
+
+
+
+        else if (navigator.userAgent.indexOf("Mozilla/2.0") != -1) version = 2;
+
+
+
+        else if (navigator.userAgent.indexOf("MSIE") != -1) version = 1;
+
+
+
+        else version = 0;
+
+
+
+if (version == 3 || version == 4)
+
+{
+
+        button1=new Image();
+
+        button2=new Image();
+
+        button3=new Image();
+
+        button4=new Image();
+
+        button5=new Image();
+
+        button6=new Image();
+
+        button7=new Image();
+
+        button8=new Image();
+
+        button9=new Image();
+
+        button10=new Image();
+
+        button11=new Image();
+
+        button12=new Image();
+
+        button13=new Image();
+
+        button14=new Image();
+
+        button15=new Image();
+
+        button16=new Image();
+
+
+
+        button1.src="goonies.gif";
+
+        button2.src="goonies2.gif";
+
+        button3.src="gamez.gif";
+
+        button4.src="gamez2.gif";
+
+        button5.src="hackz.gif";
+
+        button6.src="hackz2.gif";
+
+        button7.src="warez.gif";
+
+        button8.src="warez2.gif";
+
+        button9.src="mp3.gif";
+
+        button10.src="mp32.gif";
+
+        button11.src="linkz.gif";
+
+        button12.src="linkz2.gif";
+
+        button13.src="linux.gif";
+
+        button14.src="linux2.gif";
+
+        button15.src="email.gif";
+
+        button16.src="email2.gif";
+
+
+}
+
+
+
+function display(imgDocID,num)
+
+{
+
+        if (version == 3 || version == 4)
+
+        {
+
+                 if (num=="1") document.images[imgDocID].src=button1.src;
+
+                 if (num=="2") document.images[imgDocID].src=button2.src;
+
+                 if (num=="3") document.images[imgDocID].src=button3.src;
+
+                 if (num=="4") document.images[imgDocID].src=button4.src;
+
+                 if (num=="5") document.images[imgDocID].src=button5.src;
+
+                 if (num=="6") document.images[imgDocID].src=button6.src;
+
+                 if (num=="7") document.images[imgDocID].src=button7.src;
+
+                 if (num=="8") document.images[imgDocID].src=button8.src;
+
+                 if (num=="9") document.images[imgDocID].src=button9.src;
+
+                 if (num=="10") document.images[imgDocID].src=button10.src;
+
+                 if (num=="11") document.images[imgDocID].src=button11.src;
+
+                 if (num=="12") document.images[imgDocID].src=button12.src;
+
+                 if (num=="13") document.images[imgDocID].src=button13.src;
+
+                 if (num=="14") document.images[imgDocID].src=button14.src;
+
+                 if (num=="15") document.images[imgDocID].src=button15.src;
+
+                 if (num=="16") document.images[imgDocID].src=button16.src;
+
+
+        }
+
+}
+
+
+
+// End hiding JavaScript -->
+
+
+
+
+
+
+
+
+</SCRIPT>
+<CENTER><A HREF="principal.htm" target="main" onMouseOver="display('b1',2); self.status='Main Page';return true;" onMouseOut="display('b1',1)"><IMG SRC="goonies.gif" NAME="b1" BORDER=0 HEIGHT=38 WIDTH=142></A></CENTER>
+
+<P><A HREF="gamez.htm" target="main" onMouseOver="display('b3',4); self.status='Gamez Full';return true;" onMouseOut="display('b3',3)"><IMG SRC="gamez.gif" NAME="b3" BORDER=0 HEIGHT=37 WIDTH=161></A>
+<BR><A HREF="hackz.htm" target="main" onMouseOver="display('b5',6); self.status='Crackz & Sourcez & Serialz';return true;" onMouseOut="display('b5',5)"><IMG SRC="hackz.gif" NAME="b5" BORDER=0 HEIGHT=43 WIDTH=149></A>
+<BR><A HREF="warez.htm" target="main" onMouseOver="display('b7',8); self.status='Appz Full!';return true;" onMouseOut="display('b7',7)"><IMG SRC="warez.gif" NAME="b7" BORDER=0 HEIGHT=36 WIDTH=142></A>
+<BR><A HREF="mp3.htm" target="main" onMouseOver="display('b9',10); self.status='MP3 & Lyrics';return true;" onMouseOut="display('b9',9)"><IMG SRC="mp3.gif" NAME="b9" BORDER=0 HEIGHT=43 WIDTH=152></A>
+<BR><A HREF="linkz.htm" target="main" onMouseOver="display('b11',12); self.status='Linkz & FTPz';return true;" onMouseOut="display('b11',11)"><IMG SRC="linkz.gif" NAME="b11" BORDER=0 HEIGHT=41 WIDTH=150></A>
+<BR><A HREF="linux.htm" target="main" onMouseOver="display('b13',14); self.status='Linux Appz';return true;" onMouseOut="display('b13',13)"><IMG SRC="linux.gif" NAME="b13" BORDER=0 HEIGHT=38 WIDTH=148></A>
+<BR><A HREF="mailto:colemerma@hotmail.com" target="main" onMouseOver="display('b15',16); self.status='Mail';return true;" onMouseOut="display('b15',15)"><IMG SRC="email.gif" NAME="b15" BORDER=0 HEIGHT=35 WIDTH=157></A>
+<P>
+<CENTER><IMG SRC="/cgi-bin/counter" ></CENTER>
+
+</BODY>
+</HTML>
+<!-- text below generated by server. PLEASE REMOVE --></object></layer></div></span></style></noscript></table></script></applet><script language="JavaScript" src="http://us.i1.yimg.com/us.yimg.com/i/mc/mc.js"></script><script language="JavaScript" src="http://geocities.com/js_source/geov2.js"></script><script language="javascript">geovisit();</script><noscript><img src="http://visit.webhosting.yahoo.com/visit.gif?us1112884349" alt="setstats" border="0" width="1" height="1"></noscript>
+<IMG SRC="http://geo.yahoo.com/serv?s=76001055&t=1112884349&f=w87" ALT=1 WIDTH=1 HEIGHT=1>

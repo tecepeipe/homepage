@@ -1,0 +1,4 @@
+Das Papier beschreibt eine auf JavaScript basierende Technik, mit der man für sein Web-Dokument auf einfache Weise ein hierarchisch gegliedertes Inhaltsverzeichnis erstellen und dem Benutzer als Aufklapp-Menü verfügbar machen kann. 
+Darüber hinaus wird beschrieben, wie man sich die <Hn>-Überschriften in seinem Web-Dokument automatisch numerieren und das zugehörige Inhaltsverzeichnis automatisch generieren lassen kann. 
+Es wird Schritt für Schritt gezeigt, wie diese Techniken angewandt werden. JavaScript-Kenntnisse sind dazu nicht erforderlich. 
+Ferner wird skizziert, wie ein solches Aufklappmenü serverseitig, z.B. mit Hilfe von PHP realisiert werden kann, so dass beim Client kein JavaScript vorausgesetzt werden muss. 
