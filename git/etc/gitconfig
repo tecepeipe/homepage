@@ -21,4 +21,4 @@
 	process = git-lfs filter-process
 	required = true
 [credential]
-	helper = !\"C:/Users/fabricio/Documents/Home Page/git/mingw32/libexec/git-core/git-credential-store.exe\"
+	helper = !\"C:/Users/user/Documents/Home Page/git/mingw32/libexec/git-core/git-credential-store.exe\"
