@@ -1,8 +1,8 @@
 @echo off
 c:
 cd "C:\Users\user\Documents\Home Page\Plex-Export"
-"C:\Program Files (x86)\Plex\Plex Media Server\Plex Media Server.exe"
-sleep 5s
+start /b "C:\Program Files (x86)\Plex\Plex Media Server\Plex Media Server.exe"
+sleep 2s
 ::to get token, get media info, click View as XML and extract from URL
 php\php cli.php -sections="TV Series",Moviez,"Moviez 3D","Moviez Ultra HD",Animes,Cartoons -token=uPsjdxSwaJdMzrT6Uq2a
 
