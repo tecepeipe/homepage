@@ -1,10 +1,10 @@
 @echo off
 c:
 cd "C:\Users\user\Documents\Home Page\Plex-Export"
-start /b "C:\Program Files (x86)\Plex\Plex Media Server\Plex Media Server.exe"
-sleep 2s
+::start /b "C:\Program Files (x86)\Plex\Plex Media Server\Plex Media Server.exe"
+::sleep 2s
 ::to get token, get media info, click View as XML and extract from URL
-php\php cli.php -sections="TV Series","TV Shows",Moviez,"Moviez 3D","Moviez Ultra HD",Animes,Cartoons -token=_QfJSf7MLYHhonyZ2Uzs
+php\php cli.php -sections="TV Series","TV Shows",Moviez,"Moviez 3D","Moviez Ultra HD",Animes,Cartoons -token=mXEZK8s_sHxVyysWDjMB
 
 rclone sync --transfers 15 "C:\Users\user\Documents\Home Page\Plex-Export\plex-data" gdrive-bundle:"Home Page/Plex-Export/plex-data" --progress --stats-one-line
 if exist e:\Documentos rclone sync --transfers 2  "C:\Users\User\Documents\Home Page\Plex-Export\plex-data" "E:/Home Page/Plex-Export/plex-data" --progress --stats-one-line --size-only
