@@ -4,7 +4,7 @@ cd "C:\Users\user\Documents\Home Page\Plex-Export"
 ::start /b "C:\Program Files (x86)\Plex\Plex Media Server\Plex Media Server.exe"
 ::sleep 2s
 ::to get token, get media info, click View as XML and extract from URL
-php\php cli.php -sections="TV Series","TV Shows",Moviez,"Moviez 3D","Moviez Ultra HD",Animes,Cartoons -token=mXEZK8s_sHxVyysWDjMB
+php\php cli.php -sections="TV Series","TV Shows",Moviez,"Moviez 3D","Moviez Ultra HD",Animes,Cartoons -token=fHPqUdm1x4JD_tyUp1Bg
 
 rclone sync --transfers 15 "C:\Users\user\Documents\Home Page\Plex-Export\plex-data" gdrive-bundle:"Home Page/Plex-Export/plex-data" --progress --stats-one-line
 rclone sync --transfers 10 "C:\Users\user\Documents\Home Page\Plex-Export\plex-data" onedrive-dev-1:"Home Page/Plex-Export/plex-data" --progress --stats-one-line
