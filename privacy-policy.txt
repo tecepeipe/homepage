@@ -1,0 +1,74 @@
+Here is the updated Privacy Policy template for your app:
+
+Privacy Policy
+Last updated: August 18, 2026
+
+Bugz Strategy ("we," "our," or "us"), developed by Fabricio Lima GmbH, is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and handle your information when you use our mobile application (the "App").
+
+1. Information We Collect
+We collect minimal information required to provide, maintain, and improve the App.
+
+Information You Provide: If you register an account, contact support, or fill out forms within the App, we may collect information such as your name, email address, or feedback.
+
+Automatically Collected Data: Depending on how you interact with the App, we or third-party services may automatically collect device details (e.g., device model, operating system version, unique device identifiers), IP address, crash logs, and gameplay analytics.
+
+Personal & Sensitive Permissions: [If Bugz Strategy requests specific permissions like Storage, Camera, or Location, list them here. Otherwise, state: "The App does not request access to sensitive device permissions."]
+
+2. How We Use Your Information
+We use the collected data to:
+
+Provide, operate, and maintain the functionality of Bugz Strategy.
+
+Improve, personalize, and expand the game experience.
+
+Analyze gameplay trends, performance, and fix technical crashes.
+
+Communicate with you regarding player support or game updates.
+
+3. Third-Party Services
+We may utilize third-party SDKs and service providers to operate, analyze, or monetize the App. These third parties may collect information used to identify your device under their own privacy policies.
+
+Third-party services used by Bugz Strategy may include (where applicable):
+
+Google Play Services
+
+Google Analytics for Firebase
+
+AdMob / Unity Ads (if the game contains ads)
+
+4. Data Sharing & Disclosure
+We do not sell, trade, or rent your personal data to third parties. We will only share information:
+
+To comply with legal obligations or valid government requests.
+
+To protect the safety, rights, or property of our users, the game, or the public.
+
+With trusted service providers operating under strict confidentiality agreements.
+
+5. Security & Data Retention
+We implement reasonable technical and organizational measures to protect your data. However, no method of transmission over the internet or electronic storage is 100% secure. We retain your information only as long as necessary to fulfill the purposes outlined in this policy.
+
+6. Children's Privacy
+[Select the option that applies to your game target audience:]
+
+Option A (General Audience / 13+): Bugz Strategy is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If we discover a child under 13 has provided personal data, we will delete it immediately.
+
+Option B (Family / Kids Game): Bugz Strategy complies with Google Play's Families Policy. We do not collect personal information from children without verifiable parental consent.
+
+7. User Data Deletion Rights
+You have the right to request access to or deletion of your personal data. If you wish to delete your account or any data associated with your use of Bugz Strategy, please contact us at [Your Contact Email] or submit a request at [Link to Data Deletion Request Page/Form if applicable].
+
+8. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Any changes will be posted on this page with an updated "Last updated" date. You are advised to review this policy periodically.
+
+9. Contact Us
+If you have any questions or suggestions about this Privacy Policy, please contact us at:
+
+Email: tecepeipe@hotmail.com
+
+Developer Name: Fabricio Lima GmbH
+
+Reminders Before Uploading
+Replace the remaining bracketed text: Add your official support email address in Section 7 and Section 9, and adjust Section 1 or Section 6 if your app has specific permissions or targets children.
+
+Data Deletion URL: Google Play Console requires a public link where users can request account/data deletion if your app creates accounts.
