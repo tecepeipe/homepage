@@ -3,6 +3,7 @@ window.PAYLOAD_TILES = [
     { title: "ftpsrv", description: "FTP server. Runs on port 2121.", name: "ftpsrv-ps5.elf", key: "ftp" },
     { title: "PKG-Manager", description: "PKG installer. Runs on port 8844.", name: "PKG-Manager.elf", key: "pkg" },
     { title: "PLDMGR", description: "Payload Manager. Runs on port 8084.", name: "pldmgr.elf", key: "pldmgr" },
+    { title: "Web-File-Manager", description: "Web File Manager. Runs on port 8888.", name: "web-file-mgr.elf", key: "web-file-mgr" },
     { title: "Game-Compressor", description: "Game Compressor. Runs on port 5910.", name: "game-compressor.elf", key: "gc" },
     { title: "ShadowMountPlus", description: "Detects games installed in data/etaHEN/games folder or USB:/homebrew/.", name: "ShadowMountPlus.elf", key: "shdmt" },
     { title: "klogsrv", description: "Kernel log server. Runs on port 3232.", name: "klogsrv-ps5.elf", key: "klog" }
